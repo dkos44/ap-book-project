@@ -1,0 +1,50 @@
+{
+	"_type": "UMLClassView",
+	"_id": "AAAAAAFgDaCwGzfH8ZY=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBtyKM79qY="
+	},
+	"model": {
+		"$ref": "AAAAAAFgDaCwGzfFl60="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": true,
+	"containerExtending": false,
+	"left": 288,
+	"top": 120,
+	"width": 96,
+	"height": 176,
+	"autoResize": false,
+	"stereotypeDisplay": "label",
+	"showVisibility": true,
+	"showNamespace": false,
+	"showProperty": true,
+	"showType": true,
+	"nameCompartment": {
+		"$ref": "AAAAAAFgDaCwGzfIUlc="
+	},
+	"wordWrap": false,
+	"suppressAttributes": false,
+	"suppressOperations": false,
+	"suppressReceptions": true,
+	"showMultiplicity": true,
+	"showOperationSignature": true,
+	"attributeCompartment": {
+		"$ref": "AAAAAAFgDaCwGzfNqgk="
+	},
+	"operationCompartment": {
+		"$ref": "AAAAAAFgDaCwGzfO/1U="
+	},
+	"receptionCompartment": {
+		"$ref": "AAAAAAFgDaCwGzfPgZ0="
+	},
+	"templateParameterCompartment": {
+		"$ref": "AAAAAAFgDaCwGzfQ7q4="
+	}
+}
