@@ -1,0 +1,78 @@
+class UI:
+
+private:
+    getString()
+    getDouble()
+    getInt()
+    getChar()
+    getPositiveNum()
+
+Public:
+    vector<string> getLogin()
+    int printMainMenu()
+    roomCrit roomCharacteristics()
+    int printResults(vector<Room> )
+    void logOutMsg()
+
+
+class Booking
+    RoomDatabase myRDb
+    vector<Room> search(roomTarget)
+    // vector<Room> flexibleSearch(roomTarget) // C2
+
+
+
+class RoomDatabase
+    dataTable JoseTable
+
+
+
+//**********************************************
+
+void main()
+
+    UI myPrinter
+    Booking myBooker
+    
+
+
+
+    
+
+
+//*********************************
+class roomTarget: Utilities, TimeInfo
+    // nothingSpecialHere
+
+
+//**********************************
+class Building:
+    int IDBuilding 
+    string NameBuilding
+    string openingHours
+    string closingHours
+
+class Room:Building,utilities
+    int IDRoom
+    string NameRoom
+    vector<Reservation > Schedule
+
+class Reservation:TimeInfo
+    string UserNumber
+
+// *************
+class TimeInfo:
+    string startTime
+    string endTime
+    string date
+
+class Utilities:
+    int roomSize
+    boolean whiteBoard
+    boolean LCD
+    boolean beamer
+    boolean inclosed
+
+
+
+
